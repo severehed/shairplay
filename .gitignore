@@ -48,3 +48,6 @@ stamp-h1
 src/shairplay
 src/test/example
 compile
+
+# Carthage
+Carthage/Build
