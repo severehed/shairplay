@@ -1,8 +1,7 @@
 # Shairplay
-___
 
-**Free, portable AirPlay Server implementation similar to [ShairPort](https://github.com/abrasive/shairport).  
-Currently, only AirPort Express emulation is supported.**
+Free, portable AirPlay Server implementation similar to [ShairPort](https://github.com/abrasive/shairport).  
+Currently, only AirPort Express emulation is supported.
 
 ## Table of Contents
 
