@@ -537,8 +537,8 @@
 				PUBLIC_HEADERS_FOLDER_PATH = "include/$(PRODUCT_NAME)";
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
-				SUPPORTED_PLATFORMS = "macosx iphonesimulator iphoneos";
-				VALID_ARCHS = "i386 x86_64 armv7 arm64 armv7s";
+				SUPPORTED_PLATFORMS = "macosx iphonesimulator iphoneos watchsimulator watchos";
+				VALID_ARCHS = "i386 x86_64 armv7 arm64 armv7s armv7k";
 			};
 			name = Debug;
 		};
@@ -584,7 +584,8 @@
 				PUBLIC_HEADERS_FOLDER_PATH = "include/$(PRODUCT_NAME)";
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
-				SUPPORTED_PLATFORMS = "macosx iphonesimulator iphoneos";
+				SUPPORTED_PLATFORMS = "macosx iphonesimulator iphoneos watchsimulator watchos";
+				VALID_ARCHS = "i386 x86_64 armv7 arm64 armv7s armv7k";
 			};
 			name = Release;
 		};
